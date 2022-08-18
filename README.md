@@ -10,4 +10,14 @@ this project:
 4. In the Foreground section, we can choose the color of the text.
 5. In the Background section, we can choose the background color.  
 
-![mahdi](https://user-images.githubusercontent.com/108512164/185474864-5a3dc198-3c8b-4e47-846c-55237dc81266.PNG)
+![Mahdi](https://user-images.githubusercontent.com/108512164/185474864-5a3dc198-3c8b-4e47-846c-55237dc81266.PNG)  
+
+## *Credit_Card*  
+
+this project:
+- If the user selects the Card Credit radio button, the form will be displayed and all options will be active in the middle part. But if you select the Customer Bill radio button, the middle part of the form is disabled, i.e. Card Details
+- If the Card Credit radio button is selected, the user can enter his credit card information. After entering the information, by selecting the Accept button or the shortcut keys A+alt, an information page containing the entered information will be displayed.
+- If the Customer Bill radio button is selected and the Accept button or A+alt shortcut keys are selected, then the message Customer will be billed will be displayed.  
+
+![Mahdi](https://user-images.githubusercontent.com/108512164/185478804-9f4f40c3-1ae6-4c55-a212-92101e8388ff.PNG)
+
