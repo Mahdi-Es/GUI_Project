@@ -1,8 +1,8 @@
 # ✨ ***GUI_Project*** ✨ 
 
-GUI_project  
+GUI_project (Graphical User Interface)  
 
-## *Edit_Text*  
+## ⚡*Edit_Text*⚡  
 this project:
 1. In the Change text section, write a text and press Enter to display it in JLabel.
 2. At the top of the project, there are three JRadioButtons that we can enlarge or reduce the font of the text, and we can also place the text on the left, right or center of the JLabel.
@@ -12,7 +12,7 @@ this project:
 
 ![Mahdi](https://user-images.githubusercontent.com/108512164/185474864-5a3dc198-3c8b-4e47-846c-55237dc81266.PNG)  
 
-## *Credit_Card*  
+## ⚡*Credit_Card*⚡  
 
 this project:
 - If the user selects the Card Credit radio button, the form will be displayed and all options will be active in the middle part. But if you select the Customer Bill radio button, the middle part of the form is disabled, i.e. Card Details
