@@ -21,3 +21,13 @@ this project:
 
 ![Mahdi](https://user-images.githubusercontent.com/108512164/185478804-9f4f40c3-1ae6-4c55-a212-92101e8388ff.PNG)
 
+## *Create_Form*  
+
+this project:  
+
+1. We created an empty form like this.  
+![Mahdi](https://user-images.githubusercontent.com/108512164/185548583-a724562a-500e-4e4d-b25c-e2417b6aa3e6.PNG)  
+2. If we do not fill all the fields and press the Ok button, we will face the error message You are missing an important field, please try again.  
+![Mahdi](https://user-images.githubusercontent.com/108512164/185549531-50d6df36-0bc6-4efa-9c6f-300d1579e86a.PNG)  
+3. else:  
+![Mahdi](https://user-images.githubusercontent.com/108512164/185549227-7359214a-6772-466e-a477-fdff79b0346f.PNG)
